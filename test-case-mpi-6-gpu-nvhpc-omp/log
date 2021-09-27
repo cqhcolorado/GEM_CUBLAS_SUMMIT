@@ -1,0 +1,879 @@
+------------------------------ Running Jobs: 124 (batch: 4597/4623=99.44% + batch-hm: 51/54=94.44%) ------------------------------
+JobID      User       Queue    Project    Nodes Remain     StartTime       JobName        
+364431.1   chens      batch    MED111     2     33:41      09/30 22:09:12  out-traj12-5-[1-5]
+364431.3   chens      batch    MED111     2     42:46      09/30 22:18:17  out-traj12-5-[1-5]
+361303     borsanyi   batch    LGT108     96    1:11:03    10/01 10:46:34  24x8           
+376571.1   chens      batch    MED111     2     14:51:23   10/01 12:26:54  out-traj13-1-[1-5]
+376555.1   chens      batch    MED111     2     16:58:06   10/01 14:33:37  out-traj8-7-[1-5]
+376555.2   chens      batch    MED111     2     16:58:06   10/01 14:33:37  out-traj8-7-[1-5]
+376555.3   chens      batch    MED111     2     16:58:06   10/01 14:33:37  out-traj8-7-[1-5]
+376555.4   chens      batch    MED111     2     16:58:24   10/01 14:33:55  out-traj8-7-[1-5]
+376555.5   chens      batch    MED111     2     16:58:42   10/01 14:34:13  out-traj8-7-[1-5]
+382191     michaeljr  batch-hm STF001     1     5:24       10/01 15:40:55  jrm3_dl_test   
+382512     rnassar    batch    BIP204     8     19:53:22   10/01 17:28:53  1xn6_N16       
+382763     humberto   batch    MPH113     20    5:54       10/01 19:41:25  H+OH_basis     
+381061     boram1     batch    PHY138NUCL 72    4:33:54    10/01 20:09:25  72-192-b6p5-700
+382899     nanding    batch    BIF115     2     53:36      10/01 20:29:07  Not_Specified  
+382905     you.song   batch    MAT190     10    57:39      10/01 20:33:10  PyMPItestLG    
+382931     rallaire   batch    MAT199     1     1:18:50    10/01 20:54:21  GPU_Heat       
+377323     gkhelash   batch    BIP109     10    1:20:05    10/01 20:55:36  ./raw_swarms/submission_logs/f
+380729     harpolea   batch    AST106     10    35:08      10/01 21:00:39  cc_gpu         
+381797     xzhai      batch    ENG113     8     1:25:08    10/01 21:00:39  R37_111_HO_P2_restart5176862_T
+378369     xzhai      batch    ENG113     8     1:42:51    10/01 21:18:22  R37_111_HO_P2_restart5176862_B
+382966     hancheng   batch    CHP107     8     1:42:51    10/01 21:18:22  1.57_40_40     
+383135     jjravi     batch    CSC300     1     1:56:17    10/01 21:31:48  Not_Specified  
+364431.2   chens      batch    MED111     2     41:03      09/30 22:16:34  out-traj12-5-[1-5]
+364431.5   chens      batch    MED111     2     1:17:01    09/30 22:52:32  out-traj12-5-[1-5]
+381271     mbberger14 batch    CHM169     4     14:55:40   10/01 12:31:11  miller-a1      
+381276     mbberger14 batch    CHM169     4     14:55:40   10/01 12:31:11  miller-a2      
+376571.3   chens      batch    MED111     2     14:55:40   10/01 12:31:11  out-traj13-1-[1-5]
+376571.4   chens      batch    MED111     2     14:55:57   10/01 12:31:28  out-traj13-1-[1-5]
+381719     apak       batch    BIP209     2     15:39:50   10/01 13:15:21  init_r1        
+381720     apak       batch    BIP209     2     15:39:50   10/01 13:15:21  init_r2        
+381982     bkhomami1  batch    CFD124     50    1:04:36    10/01 16:40:07  wi10UEF.pe1000 
+382531     rnassar    batch    BIP204     8     19:58:10   10/01 17:33:41  2crq_N16       
+382524     pwsimox    batch    BIP196     50    1:59:07    10/01 17:34:38  40k_0          
+382536     rnassar    batch    BIP204     8     7:59:07    10/01 17:34:38  1ubq_N16       
+382537     rnassar    batch    BIP204     8     19:59:23   10/01 17:34:54  3gb1_N16       
+345617     pfliu      batch    PHY130     64    1:22:23    10/01 19:37:54  ITG_1.75kapati_ps10+4
+380700     detar      batch    PHY138FLAVOR 96    4:02:39    10/01 19:38:10  allHISQ        
+382777     frivas     batch    GEN006     16    11:16      10/01 19:46:47  13ctm_p4248_90_ms32_t3.0.lsf
+380447     ewilson94  batch    BIP115     16    11:31      10/01 19:47:02  step9.19       
+382778     hancheng   batch    CHP107     9     12:46      10/01 19:48:17  single_1       
+382779     hancheng   batch    CHP107     9     13:01      10/01 19:48:32  single_2       
+382780     hancheng   batch    CHP107     9     13:01      10/01 19:48:32  single_3       
+382781     hancheng   batch    CHP107     9     13:15      10/01 19:48:46  single_4       
+382782     hancheng   batch    CHP107     9     13:15      10/01 19:48:46  double_1       
+382908     atrifan2   batch    MED110     1     59:23      10/01 20:34:54  Not_Specified  
+381851     mosusky1   batch    ENG111     80    5:37:21    10/01 21:12:52  hsrt_a1_b1_c   
+382920     jingoo     batch    CSC365     18    1:37:21    10/01 21:12:52  Not_Specified  
+383057     shudler1   batch    CSC340     2     52:52      10/01 21:28:23  CharmJob       
+382895     rbhas1     debug    CFD143     12    52:51      10/01 20:28:22  naca21         
+382890     glaser     debug    STF006     27    1:01:09    10/01 20:36:40  Not_Specified  
+364431.4   chens      batch    MED111     2     50:14      09/30 22:25:45  out-traj12-5-[1-5]
+312734     dwellis    batch    MAT020     1700  8:38:39    10/01 10:14:10  LSMS-FeSi      
+377083     ckosgal    batch-hm NTI109     48    12:39:24   10/01 10:14:55  n192_3M        
+377863     ebrini     batch    BIP204     8     13:04:54   10/01 10:40:25  NS8B_3         
+381282     mbberger14 batch    CHM169     1     14:55:22   10/01 12:30:53  miller-a2-rep2 
+381290     mbberger14 batch    CHM169     4     14:55:22   10/01 12:30:53  miller-a2-rep3 
+376571.2   chens      batch    MED111     2     14:55:22   10/01 12:30:53  out-traj13-1-[1-5]
+376571.5   chens      batch    MED111     2     14:55:22   10/01 12:30:53  out-traj13-1-[1-5]
+382459     cpf        batch    ENG101     86    0          10/01 17:24:02  cpf            
+381847     mosusky1   batch    ENG111     80    3:22:55    10/01 18:58:26  hsrt_a2_c      
+382851     hancheng   batch    CHP107     9     14:00      10/01 19:49:31  double_2       
+382852     hancheng   batch    CHP107     9     15:01      10/01 19:50:32  quadri_1       
+382881     dpbarry    batch    CSC305     1     47:07      10/01 20:22:38  Not_Specified  
+382938     zhs15101   batch    MAT197     1     1:25:53    10/01 21:01:24  T048.002       
+382329     rpausch    batch    CSC434     128   53:56      10/01 21:29:27  001_LWFA_large_openPMD_bp
+376561.1   chens      batch    MED111     2     10:58:09   10/01 08:33:40  out-traj8-3-[1-5]
+376561.2   chens      batch    MED111     2     11:01:16   10/01 08:36:47  out-traj8-3-[1-5]
+376561.3   chens      batch    MED111     2     11:01:16   10/01 08:36:47  out-traj8-3-[1-5]
+376561.4   chens      batch    MED111     2     11:01:16   10/01 08:36:47  out-traj8-3-[1-5]
+376561.5   chens      batch    MED111     2     11:01:16   10/01 08:36:47  out-traj8-3-[1-5]
+381603     apak       batch    BIP209     2     15:32:28   10/01 13:07:59  iCI_r3         
+381714     apak       batch    BIP209     2     15:38:25   10/01 13:13:56  i2g_r3         
+381985     bkhomami1  batch    CFD124     50    1:08:23    10/01 16:43:54  wi20UEF.pe1000 
+382523     rnassar    batch    BIP204     8     19:55:34   10/01 17:31:05  1kaf_N16       
+382541     pwsimox    batch    BIP196     50    2:01:33    10/01 17:37:04  40k_low        
+372740     bjoo       batch    LGT107     108   6:37:02    10/01 19:12:33  96-192-b6p5    
+382917     szilagyirk batch    MAT206     4     7:59       10/01 20:43:30  stress_abc_refine_L1a_4
+382909     you.song   batch    MAT190     10    1:12:48    10/01 20:48:19  PyMPItestLG    
+382910     syeom      batch    CHP107     25    1:12:48    10/01 20:48:19  4Ge_adatom_1x1 
+381861     gkhelash   batch    BIP109     1     1:14:05    10/01 20:49:36  ./raw_swarms/submission_logs/w
+382880     you.song   batch    MAT190     42    1:14:20    10/01 20:49:51  DgrowNb2       
+382907     you.song   batch    MAT190     10    1:14:20    10/01 20:49:51  PyMPItestLG    
+382930     kyle       batch    NPH126     2     27:50      10/01 20:53:21  Not_Specified  
+378761     fwinter    batch    LGT115     8     1:23:39    10/01 20:59:10  hmc_aniso_z_test
+382937     hancheng   batch    CHP107     8     1:23:39    10/01 20:59:10  1.26_no_constraints
+382934     emberson   batch    HEP114     16    1:30:38    10/01 21:06:09  runme_384_eps04_HMIN4_19b
+382948     syeom      batch    CHP107     25    1:32:49    10/01 21:08:20  4S_adatom_1x1  
+382919     jingoo     batch    CSC365     18    1:33:07    10/01 21:08:38  Not_Specified  
+382964     myoon      batch    CHP107     20    1:50:53    10/01 21:26:24  test           
+383134     hrlee      batch    MED110     1     55:28      10/01 21:30:59  Not_Specified  
+383055     syeom      batch    CHP107     25    1:57:33    10/01 21:33:04  3Sn_adatom_1x1 
+383059     sbisbill   batch    CHM161     16    57:33      10/01 21:33:04  CF             
+383060     sbisbill   batch    CHM161     16    59:54      10/01 21:35:25  CF             
+383136     cabe1980   batch    CSC330     1     9:54       10/01 21:35:25  sw_perc_118_120.t30.g1.e.r0
+381243     hyuan      batch    NFU105     128   2:18:15    10/01 11:53:46  nek5000_mus_solid2
+375960     cpf        batch    ENG101     344   2:33:51    10/01 12:11:22  cpf            
+382203     pstjohn    batch-hm BIE108     1     11:08      10/01 15:46:39  go_finetuning_swissprot_1E5
+367511     apak       batch    BIP209     2     19:51:53   10/01 17:27:24  mtdCIB_1_39    
+382508     rnassar    batch    BIP204     8     19:51:53   10/01 17:27:24  5p21_N16       
+382510     rnassar    batch    BIP204     8     19:51:53   10/01 17:27:24  2kcw_N16       
+382519     rnassar    batch    BIP204     8     19:54:22   10/01 17:29:53  2lst_N16       
+382525     rnassar    batch    BIP204     8     19:56:58   10/01 17:32:29  1cye_N16       
+382572     pstjohn    batch-hm BIE108     1     2:17:17    10/01 17:52:48  go_finetuning_swissprot_1E6
+345616     pfliu      batch    PHY130     64    2:48:37    10/01 19:24:08  RSAE_1.75kapati_ps10+4
+380606     rajan1     batch    PHY138NUCL 72    3:55:19    10/01 19:30:50  72-192-b6p5-orig
+381239     pfliu      batch    PHY130     64    3:39:01    10/01 19:54:32  ITG&RSAE_11k_ps15+15
+371574     flemingg   batch    PHY138BSM  96    4:26:41    10/01 20:02:12  rc             
+380279     flemingg   batch    PHY138BSM  96    4:29:24    10/01 20:04:55  rc             
+382642     jyw        batch    MPH114     1     39:16      10/01 20:14:47  mod.003        
+382891     ccui       batch    GEO111     3     49:08      10/01 20:24:39  interactive    
+381001     gkhelash   batch    BIP109     1     1:05:42    10/01 20:41:13  ./raw_swarms/submission_logs/c
+382897     syeom      batch    CHP107     25    1:10:34    10/01 20:46:05  3Ge_adatom_1x1 
+382901     mosusky1   batch    ENG111     80    5:22:05    10/01 20:57:36  hsrt_a3_c      
+380533     lehner     batch    LGT109     256   22:35      10/01 20:58:06  1h-hvp         
+382956     jeanluc    batch    CSC304     1     6:37       10/01 21:12:08  Not_Specified  
+380317     huizhang2  killable CSC143     1     19:52:22   10/01 17:27:53  AMR            
+380322     huizhang2  killable CSC143     1     19:52:22   10/01 17:27:53  AMR            
+380304     huizhang2  killable CSC143     1     21:53:47   10/01 19:29:18  AMR            
+382139     lyang42    killable FUS049     10    7:54:03    10/01 19:29:34  RunSim123      
+382140     lyang42    killable FUS049     12    7:54:03    10/01 19:29:34  RunSim123      
+380320     huizhang2  killable CSC143     1     21:55:53   10/01 19:31:24  AMR            
+380321     huizhang2  killable CSC143     1     21:55:53   10/01 19:31:24  AMR            
+380323     huizhang2  killable CSC143     2     21:55:53   10/01 19:31:24  AMR            
+380319     huizhang2  killable CSC143     1     21:56:10   10/01 19:31:41  AMR            
+------------------------------------------------------- Eligible Jobs: 119 -------------------------------------------------------
+JobID      User       Queue    Project    Nodes Walltime   QueueTime       Priority JobName        
+371830     ylan       batch    CSC262     4608  30:00      09/28 01:49:54  522.82   nekRS_lv_170_per
+376260     ylan       batch    CSC262     3620  30:00      09/29 15:33:22  521.25   nekRS_rod1717_6340
+381251     davpoole   batch    CHM135     4378  2:00:00    10/01 11:40:05  519.41   w20063-240frag_4378node
+381252     davpoole   batch    CHM135     4096  2:00:00    10/01 11:40:09  519.41   w20063-240frag_4096node
+381253     davpoole   batch    CHM135     3072  2:00:00    10/01 11:40:13  519.41   w20063-240frag_3072node
+371793     dsambit    batch    ENG110     1400  1:30:00    09/28 01:24:39  518.84   size3pyriiS    
+312735     dwellis    batch    MAT020     1700  20:00:00   08/31 12:07:32  518.20   LSMS-FeSi      
+371828     ylan       batch    CSC262     1626  30:00      09/28 01:49:17  517.82   nekRS_lv_60    
+373845     borsanyi   batch    LGT108     922   12:00:00   09/28 15:19:03  517.47   ibs/24x8       
+312803     dwellis    batch    MAT020     1700  20:00:00   08/31 12:16:53  517.42   LSMS-FeSi      
+376391     ylan       batch    NFU106     1810  30:00      09/29 15:47:32  517.24   nekRS_rod1717_6340
+376488     br2575     batch    CHM131     1380  2:00:00    09/29 16:22:05  517.22   systemset69    
+375214     kschau     batch    CHM139     930   1:00:00:00 09/29 08:46:10  517.11   rde-360-full-GPU
+377708     dsambit    batch    ENG110     1400  3:00:00    09/30 07:24:19  516.59   size3pyrii     
+377897     milias     batch    CHP109     922   12:00:00   09/30 09:00:07  516.52   MtHCO4         
+377898     milias     batch    CHP109     922   12:00:00   09/30 09:00:09  516.52   MtHCO4         
+312804     dwellis    batch    MAT020     1700  20:00:00   08/31 12:16:53  516.51   LSMS-FeSi      
+380346     asunaga    batch    CHP109     1000  12:00:00   10/01 01:53:47  515.82   dirac          
+380347     asunaga    batch    CHP109     1000  12:00:00   10/01 01:53:47  515.82   dirac          
+380348     asunaga    batch    CHP109     1000  12:00:00   10/01 01:53:47  515.82   dirac          
+312805     dwellis    batch    MAT020     1700  20:00:00   08/31 12:16:53  515.48   LSMS-FeSi      
+381280     mrieth     batch    CMB103     960   8:00:00    10/01 11:48:15  515.41   ammonia        
+382035     hannah6    batch    CLI115     1000  30:00      10/01 14:39:19  515.29   run.INCITE2020.GNUGPU.ne45pg2_
+382037     hannah6    batch    CLI115     1000  30:00      10/01 14:39:30  515.29   run.INCITE2020.GNUGPU.ne45pg2_
+382949     mvoegele   batch    BIP152     1020  6:00:00    10/01 21:07:16  515.02   m2r_go_ixo_1   
+382959     mvoegele   batch    BIP152     940   4:00:00    10/01 21:15:37  515.01   remd-m2r-arr-ixo
+382961     mvoegele   batch    BIP152     1020  6:00:00    10/01 21:16:58  515.01   m2r_go_nol_1   
+382967     mvoegele   batch    BIP152     940   6:00:00    10/01 21:18:14  515.01   m2r_arr_nol_1  
+381018     jyc        batch    CSC143     2048  2:00:00    10/01 10:28:25  514.46   su394          
+381255     davpoole   batch    CHM135     2048  2:00:00    10/01 11:40:19  514.41   w20063-240frag_2048node
+381999     gw6        batch    CSC297     1024  5:00       10/01 14:27:01  514.30   swfft_10240    
+355817     mosusky1   batch    ENG111     295   12:00:00   09/20 21:21:11  510.23   hsrt_s1n       
+356552     mosusky1   batch    ENG111     295   12:00:00   09/21 12:29:35  509.08   hsrt_s1n       
+374873     yaomin     batch    ENG112     537   12:00:00   09/29 00:13:13  507.89   end-filt       
+372926     kaien      batch    MAT224     600   2:00:00    09/28 11:33:31  507.42   Hf_i-1         
+381722     matitov    debug    CSC393     800   20:00      10/01 13:15:37  506.35   pilot.0000     
+378974     ckosgal    batch-hm NTI109     48    1:00:00:00 09/30 14:01:25  506.31   n192_9M        
+376913     lnett      batch    CHM135     512   3:00:00    09/29 18:40:01  506.12   msn32-512N-4000-1000-RESDIM4.5
+383137     cycheng    debug    FUS123     1     10:00      10/01 21:35:17  506.00   coupling_test  
+380534     lehner     batch    LGT109     256   1:00:00    10/01 04:25:05  505.72   1h-hvp         
+380535     lehner     batch    LGT109     256   1:00:00    10/01 04:25:05  505.72   1h-hvp         
+380536     lehner     batch    LGT109     256   1:00:00    10/01 04:25:05  505.54   1h-hvp         
+369961     yoonh      batch    MED106     334   4:00:00    09/26 20:15:21  505.54   bagging_cnn    
+380783     jpoto      batch    CHP109     250   12:00:00   10/01 09:24:30  505.51   dirac          
+378097     ikd        batch    CSC310     512   1:00:00    09/30 10:13:23  505.47   case33_maxl2   
+378099     ikd        batch    CSC310     512   1:00:00    09/30 10:13:33  505.47   case33_maxl4   
+378100     ikd        batch    CSC310     512   1:00:00    09/30 10:14:07  505.47   case33_maxl6   
+381285     misokilo   batch    NPH123     256   5:00:00    10/01 11:49:52  505.41   TestRun-1      
+378408     nfrontie   batch    HEP114     256   12:00:00   09/30 11:55:46  505.40   UV_scaling_768EPSHMIN_S
+381330     pocvirk    batch    AST031     512   12:00:00   10/01 12:10:29  505.39   RC2048         
+381918     dsambit    batch    ENG110     400   15:00      10/01 13:55:08  505.32   debug          
+381920     wuda       batch    CLI115     258   20:00      10/01 13:56:25  505.32   run.FC5AV1C-H01B_ne120_oRRS18v
+381934     gbusco     batch    NFU105     400   6:00:00    10/01 14:02:09  505.31   nekRS          
+379093     abhyankar  batch    CSC359     512   2:30:00    09/30 14:55:33  505.28   exago          
+382330     ckosgal    batch-hm NTI109     48    1:00:00:00 10/01 16:06:35  505.23   n192_3T        
+378399     nfrontie   batch    HEP114     256   12:00:00   09/30 11:52:31  505.18   UV_scaling_1536EPSHMIN
+373665     borsanyi   batch    LGT108     288   12:00:00   09/28 14:38:55  505.17   ibs/48x16      
+380449     sivanr     batch    MAT209     256   2:00:00    10/01 03:29:21  505.17   test           
+382588     dzr5281    batch    NFU106     350   2:00:00    10/01 18:09:31  505.14   nekRS_peb45k   
+379777     shudler1   batch    CSC340     256   2:00:00    09/30 19:11:09  505.10   LaghosJob      
+380463     sivanr     batch    MAT209     256   2:00:00    10/01 03:31:44  505.08   test           
+382869     lsawade    batch    GEO111     200   5:00:00    10/01 20:07:15  505.06   solver         
+380466     sivanr     batch    MAT209     256   2:00:00    10/01 03:32:58  505.04   test           
+380450     sivanr     batch    MAT209     256   2:00:00    10/01 03:29:46  505.04   test           
+383061     sbisbill   batch    CHM161     16    1:00:00    10/01 21:28:12  505.00   CF             
+361556     dbollweg   batch    LGT113     128   12:00:00   09/23 08:19:27  505.00   rhmc_prod_nt16 
+383062     sbisbill   batch    CHM161     16    1:00:00    10/01 21:28:12  505.00   CF             
+383063     sbisbill   batch    CHM161     16    1:00:00    10/01 21:28:12  505.00   CF             
+380313     sajaldash  batch    GEN011     300   1:00:00    10/01 01:26:56  504.84   BRCA-um-300-nodes
+373947     kaien      batch    MAT224     300   1:00:00    09/28 15:38:13  504.54   Ti_i-2         
+373092     kaien      batch    MAT224     300   1:00:00    09/28 12:10:47  504.49   Li_i-2         
+373096     kaien      batch    MAT224     120   1:00:00    09/28 12:11:27  504.49   Sc_i_mag       
+380910     aayala     batch    CSC391     128   5:00       10/01 10:11:00  504.48   fast           
+369962     yoonh      batch    MED106     334   4:00:00    09/26 20:15:29  504.47   bagging_cnn    
+380991     glaser     batch-hm STF006     36    12:00:00   10/01 10:23:25  504.47   Not_Specified  
+369963     yoonh      batch    MED106     334   4:00:00    09/26 20:15:35  504.46   bagging_cnn    
+369964     yoonh      batch    MED106     334   4:00:00    09/26 20:15:41  504.41   bagging_cnn    
+381327     aayala     batch    CSC391     128   18:00      10/01 12:08:40  504.39   lammps         
+381341     ldowen     batch    CMB138     125   2:00       10/01 12:16:11  504.39   onetwentyfive_node_weak_scale
+381375     ylan       batch    CSC262     640   15:00      10/01 12:29:30  504.38   nekRS_rod1717_440
+382000     gw6        batch    CSC297     128   5:00       10/01 14:27:06  504.30   swfft_1280     
+382001     gw6        batch    CSC297     256   5:00       10/01 14:27:12  504.30   swfft_2560     
+382002     gw6        batch    CSC297     512   5:00       10/01 14:27:18  504.20   swfft_5120     
+382445     mcashman   batch    SYB106     480   15:00      10/01 16:53:19  504.20   duo-full0pt65  
+382542     sajaldash  batch    BIF122     200   2:00:00    10/01 17:36:01  504.17   BRCA-um-100-nodes-ar
+382747     daddison   batch    VEN201     128   1:30:00    10/01 19:32:04  504.09   AllReduceN128  
+382884     you.song   batch    MAT190     42    2:00:00    10/01 20:16:45  504.05   DgrowNb4       
+382889     you.song   batch    MAT190     42    2:00:00    10/01 20:19:28  504.05   DgrowNb6       
+382942     rolchigo   batch-hm MAT190     5     5:00:00    10/01 21:04:19  504.02   4-3            
+380324     huizhang2  killable CSC143     4     1:00:00:00 10/01 01:33:07  502.09   AMR            
+380327     huizhang2  killable CSC143     25    1:00:00:00 10/01 01:33:22  502.09   AMR            
+380325     huizhang2  killable CSC143     7     1:00:00:00 10/01 01:33:12  502.09   AMR            
+380326     huizhang2  killable CSC143     13    1:00:00:00 10/01 01:33:17  502.03   AMR            
+347159     weinbe2    batch    LGT104     432   4:00:00    09/16 13:38:32  469.33   hisq_l192      
+356555     weinbe2    batch    LGT104     216   2:00:00    09/21 12:31:05  464.38   hisq_l192      
+382571     chulwoo    batch    LGT104     192   1:00:00    10/01 17:52:09  454.15   BL_96I_192     
+28313      deepforce  batch    BIF120     936   1:00:00:00 04/11 11:15:23  336.72   B_f_l_b100     
+92471      deepforce  batch    BIF120     936   1:00:00:00 05/12 14:18:51  305.60   Not_Specified  
+102632     deepforce  batch    BIF120     936   1:00:00:00 05/18 04:30:12  300.00   Not_Specified  
+315643     tps        batch    CHM154     3072  4:00:00    09/01 17:25:09  198.88   INDb45         
+312441     csousa     batch    CHM154     2000  12:00:00   08/31 10:33:04  195.17   dimer.job      
+382200     acdommer   batch    MED110     2048  1:00:00:00 10/01 15:44:54  164.24   R1_EQ_PR       
+366491     weinbe2    batch    PHY138FLAVOR 216   2:00:00    09/25 00:06:22  160.60   hisq_l192      
+372011     swagato    batch    PHY138HOT  128   7:00:00    09/28 05:57:48  157.41   010.100.73-96  
+377964     panyala    batch    CHM159     512   1:30:00    09/30 09:46:52  155.49   u512           
+372501     chulwoo    batch    PHY138FLAVOR 256   1:00:00    09/28 09:46:26  155.28   1h-hvp-incite  
+372012     swagato    batch    PHY138HOT  128   7:00:00    09/28 05:57:51  154.50   010.100.97-120 
+372013     swagato    batch    PHY138HOT  128   7:00:00    09/28 05:57:54  154.50   010.100.121-144
+380588     swagato    batch    PHY138HOT  128   7:00:00    10/01 05:51:30  154.47   010.100.145-168
+380916     luissua    batch    CHM154     900   2:30:00    10/01 10:14:10  154.47   gronor         
+380256     flemingg   batch    PHY138BSM  96    6:00:00    10/01 00:34:38  154.46   rc             
+381221     detar      batch    PHY138FLAVOR 96    6:00:00    10/01 11:27:21  154.42   allHISQ        
+381374     skarakuzu  batch    CPH102     200   2:00:00    10/01 12:28:12  154.29   2x2_tp0.7_bt18 
+382219     tkurth     batch    MED110     256   2:00:00    10/01 15:53:29  154.24   eval           
+382573     atrifan2   batch    MED110     88    6:00:00    10/01 17:52:46  154.15   pilot.0000     
+381460     boram1     batch    PHY138NUCL 72    6:00:00    10/01 12:42:48  154.12   72-192-b6p5-800
+374073     chulwoo    batch    PHY138FLAVOR 72    2:00:00    09/28 16:25:14  154.08   meas_96I_540_72_omega3
+382754     rajan1     batch    PHY138NUCL 32    2:00:00    10/01 19:34:34  154.02   64-192-6p7     
+380754     tmaier     killable CPH102     91    1:00:00    10/01 09:17:20  152.38   dca_trial      
+------------------------------------------------------- Blocked Jobs: 630 --------------------------------------------------------
+JobID      User       Queue    Project    Nodes Walltime   BlockReason                           
+55915      rhager     batch    PHY122     3072  12:00:00   Job was suspended by the user while pending
+56477      rhager     batch    PHY122     3072  12:00:00   Job was suspended by the user while pending
+312806     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312807     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312808     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312809     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312810     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312811     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312812     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312813     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312814     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312841     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312842     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312843     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312844     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312845     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312846     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312847     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312848     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312849     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312850     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312851     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312852     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312694     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312695     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312696     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312697     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312698     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312699     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312700     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312701     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312702     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312703     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312704     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312705     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312706     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312707     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312708     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312709     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312710     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312711     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312712     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312713     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312714     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312715     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312716     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312717     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312718     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312719     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312720     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312721     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312722     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312723     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312724     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312815     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312816     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312817     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312818     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312819     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312820     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312821     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312822     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312823     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312824     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312825     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312826     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312827     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312828     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312829     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312830     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312831     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312832     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312833     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312834     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312835     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312836     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312837     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312838     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312839     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+312840     dwellis    batch    MAT020     1700  20:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+373860     borsanyi   batch    LGT108     922   1:00:00:00 Job dependency condition not satisfied
+373861     borsanyi   batch    LGT108     922   1:00:00:00 Job dependency condition not satisfied
+373862     borsanyi   batch    LGT108     922   1:00:00:00 Job dependency condition not satisfied
+382962     mvoegele   batch    BIP152     1020  6:00:00    Job dependency condition not satisfied
+382963     mvoegele   batch    BIP152     1020  6:00:00    Job dependency condition not satisfied
+382968     mvoegele   batch    BIP152     940   6:00:00    Job dependency condition not satisfied
+382969     mvoegele   batch    BIP152     940   6:00:00    Job dependency condition not satisfied
+850205     npmalaya   batch    VEN114     2048  3:00:00    Job was suspended by the user while pending
+381256     davpoole   batch    CHM135     1024  2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+149985     rhager     batch    PHY122     512   3:00:00    Job was suspended by the user while pending
+367512     apak       batch    BIP209     2     1:00:00:00 Job dependency condition not satisfied
+367513     apak       batch    BIP209     2     1:00:00:00 Job dependency condition not satisfied
+374695     ytpang     batch    BIP208     1     1:00:00:00 Dependency condition invalid or never satisfied
+374696     ytpang     batch    BIP208     1     1:00:00:00 Dependency condition invalid or never satisfied
+376539.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376539.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376539.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376539.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376539.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376540.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376540.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376540.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376540.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376540.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376556.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376556.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376556.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376556.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376556.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376558.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376558.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376558.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376558.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376558.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376562.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376562.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376562.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376562.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376562.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376563.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376563.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376563.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376563.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376563.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376572.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376572.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376572.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376572.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376572.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376573.1   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376573.2   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376573.3   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376573.4   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+376573.5   chens      batch    MED111     2     1:00:00:00 Job dependency condition not satisfied
+377864     ebrini     batch    BIP204     8     1:00:00:00 Job dependency condition not satisfied
+377865     ebrini     batch    BIP204     8     1:00:00:00 Job dependency condition not satisfied
+315098     cong       batch    MAT198     200   12:00:00   Job was suspended by the user while pending
+315102     cong       batch    MAT198     200   12:00:00   Job was suspended by the user while pending
+266818     novarios   batch    NPH123     150   4:00:00    Job was suspended by the user while pending
+266827     novarios   batch    NPH123     150   4:00:00    Job was suspended by the user while pending
+292054     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+292055     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+292056     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+292057     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329640     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329641     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329642     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329643     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329644     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329645     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329646     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329647     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329648     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329649     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329650     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329651     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329652     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329653     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329654     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329655     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329656     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329657     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+329658     des2037    batch    BIP109     1     2:00:00    Dependency condition invalid or never satisfied
+355715     gbs        batch    MAT020     1     2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+355818     mosusky1   batch    ENG111     295   12:00:00   Job dependency condition not satisfied
+356553     mosusky1   batch    ENG111     295   12:00:00   Job dependency condition not satisfied
+361304     borsanyi   batch    LGT108     96    12:00:00   Job dependency condition not satisfied
+361305     borsanyi   batch    LGT108     96    12:00:00   Job dependency condition not satisfied
+361557     dbollweg   batch    LGT113     128   12:00:00   Job dependency condition not satisfied
+361559     dbollweg   batch    LGT113     128   12:00:00   Job dependency condition not satisfied
+361560     dbollweg   batch    LGT113     128   12:00:00   Job dependency condition not satisfied
+365168     karabin    batch    MAT020     2     2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367011     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367012     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367194     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367195     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367199     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367200     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367203     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367204     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367210     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367211     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367216     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+367217     skellar    batch    MAT020     100   12:00:00   ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+372741     bjoo       batch    LGT107     108   9:00:00    Job dependency condition not satisfied
+372742     bjoo       batch    LGT107     108   9:00:00    Job dependency condition not satisfied
+378370     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+378762     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378763     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378764     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378765     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378766     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378767     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378768     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378769     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378770     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378771     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378772     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378773     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378774     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378775     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378776     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378777     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378778     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378779     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378780     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378781     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378782     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378783     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378784     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378785     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378786     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378787     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378788     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378789     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378790     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378791     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378792     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378793     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378794     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378795     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378796     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378797     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378798     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378799     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378800     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378801     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378802     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378803     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378804     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378805     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378806     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378807     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378808     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378809     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378810     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378811     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378812     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378813     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378814     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378815     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378816     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378817     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378818     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378819     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378820     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378821     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378822     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378823     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378824     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378825     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+378826     fwinter    batch    LGT115     8     2:00:00    Job dependency condition not satisfied
+380448     ewilson94  batch    BIP115     16    2:00:00    Job dependency condition not satisfied
+380451     sivanr     batch    MAT209     256   2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+380462     sivanr     batch    MAT209     256   2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+380465     sivanr     batch    MAT209     256   2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+380752     borsanyi   batch    LGT108     96    12:00:00   Job dependency condition not satisfied
+380753     borsanyi   batch    LGT108     96    12:00:00   Job dependency condition not satisfied
+381002     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381003     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381004     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381005     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381006     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381007     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381008     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381010     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381011     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381012     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381013     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381014     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381015     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381799     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381800     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381801     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381802     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381803     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381804     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381805     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381806     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381807     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381808     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381809     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381810     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381811     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381812     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381813     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381814     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381815     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381816     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381817     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381818     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381819     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381820     xzhai      batch    ENG113     8     2:00:00    Job dependency condition not satisfied
+381862     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381863     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381864     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381865     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381866     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381867     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381868     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381869     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381870     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381871     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381872     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381873     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381874     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381875     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381876     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381877     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381878     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381879     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381880     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381881     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381882     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381883     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381884     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381885     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+381886     gkhelash   batch    BIP109     1     2:00:00    Job dependency condition not satisfied
+382643     jyw        batch    MPH114     1     2:00:00    Job dependency condition not satisfied
+382902     mosusky1   batch    ENG111     80    6:00:00    Job dependency condition not satisfied
+382970     mvoegele   batch    BIP152     1     1:00:00:00 ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+382971     mvoegele   batch    BIP152     1     1:00:00:00 ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+382972     mvoegele   batch    BIP152     1     1:00:00:00 ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+382973     mvoegele   batch    BIP152     1     1:00:00:00 ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+382974     mvoegele   batch    BIP152     16    2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+382975     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382976     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382977     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382978     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382979     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382980     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382981     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382982     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382983     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382984     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382985     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382986     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382987     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382988     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382989     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382990     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382991     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382992     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382993     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+382994     mvoegele   batch    BIP152     17    2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+382995     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+382996     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+382997     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+382998     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+382999     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383000     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383001     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383002     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383003     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383004     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383005     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383006     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383007     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383008     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383009     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383010     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383011     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383012     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383013     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383014     mvoegele   batch    BIP152     16    2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383015     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383016     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383017     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383018     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383019     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383020     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383021     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383022     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383023     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383024     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383025     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383026     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383027     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383028     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383029     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383030     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383031     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383032     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383033     mvoegele   batch    BIP152     16    2:00:00    Job dependency condition not satisfied
+383034     mvoegele   batch    BIP152     17    2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383035     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383036     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383037     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383038     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383039     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383040     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383041     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383042     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383043     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383044     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383045     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383046     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383047     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383048     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383049     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383050     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383051     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383052     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383053     mvoegele   batch    BIP152     17    2:00:00    Job dependency condition not satisfied
+383064     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383065     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383066     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383067     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383068     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383069     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383070     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383071     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383072     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383073     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383074     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383075     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383076     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383077     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383078     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383079     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383080     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383081     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383082     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383083     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383084     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383085     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383086     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383087     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383088     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383089     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383090     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383091     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383092     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383093     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383094     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383095     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383096     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383097     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383098     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383099     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383100     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383101     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383102     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383103     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383104     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383105     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383106     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383107     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383108     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383109     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383110     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383111     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383112     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383113     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383114     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383115     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383116     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383117     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383118     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383119     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383120     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383121     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383122     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383123     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383124     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383125     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383126     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383127     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383128     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383129     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383130     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383131     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+383132     sbisbill   batch    CHM161     16    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+173895     lclaus     batch    CSC289     16    2:00:00    Job was suspended by the user while pending
+748294     csep35     batch    TRN001     1     10:00      Job was suspended by the user while pending
+748305     csep35     batch    TRN001     1     10:00      Job was suspended by the user while pending
+260621     qkt561     batch    CSC332     12    15:00      Job was suspended by the user while pending
+130691     levesque   batch    VEN004     512   1:00:00    Job was suspended by the user while pending
+130692     levesque   batch    VEN004     512   1:00:00    Job was suspended by the user while pending
+130693     levesque   batch    VEN004     512   1:00:00    Job was suspended by the user while pending
+130694     levesque   batch    VEN004     512   1:00:00    Job was suspended by the user while pending
+177966     yjiang     batch    LRN007     1     2:00:00    Job was suspended by the user while pending
+31525      jieyang    batch    CSC143     1     25:00      Job has reached its pre-execution retry limit
+325765     qkt561     batch    CSC332     40    25:00      Job was suspended by the user while pending
+260597     qkt561     batch    CSC332     12    2:00:00    Job was suspended by the user while pending
+260693     qkt561     batch    CSC332     12    25:00      Job was suspended by the user while pending
+258970     qkt561     batch    CSC332     32    25:00      Job was suspended by the user while pending
+285752     qkt561     batch    CSC332     20    25:00      Job was suspended by the user while pending
+252712     qkt561     batch    CSC332     4     25:00      Job was suspended by the user while pending
+233822     qkt561     batch    CSC332     16    10:00      Job was suspended by the user while pending
+242233     qkt561     batch    CSC332     4     10:00      Job was suspended by the user while pending
+212185     qkt561     batch    CSC332     2     5:00       Job was suspended by the user while pending
+242084     qkt561     batch    CSC332     4     2:00:00    Job was suspended by the user while pending
+258969     qkt561     batch    CSC332     32    25:00      Job was suspended by the user while pending
+259165     qkt561     batch    CSC332     32    25:00      Job was suspended by the user while pending
+260650     qkt561     batch    CSC332     12    25:00      Job was suspended by the user while pending
+245603     qkt561     batch    CSC332     4     2:00:00    Job was suspended by the user while pending
+258987     qkt561     batch    CSC332     16    25:00      Job was suspended by the user while pending
+259196     qkt561     batch    CSC332     32    25:00      Job was suspended by the user while pending
+285712     qkt561     batch    CSC332     20    25:00      Job was suspended by the user while pending
+288142     qkt561     batch    CSC332     12    15:00      Job was suspended by the user while pending
+296490     qkt561     batch    CSC332     12    15:00      Job was suspended by the user while pending
+379559     hzhou321   batch    CSC371     1     1:00:00    Job has reached its pre-execution retry limit
+381466     balos1     batch    CSC317     4     10:00      Job has reached its pre-execution retry limit
+379475     hzhou321   batch    CSC371     2     1:00:00    Job was suspended by the user while pending
+379514     hzhou321   batch    CSC371     2     1:00:00    Job was suspended by the user while pending
+379551     hzhou321   batch    CSC371     1     1:00:00    Job has reached its pre-execution retry limit
+316393     qkt561     batch    CSC332     20    3:00       Job was suspended by the user while pending
+327095     qkt561     batch    CSC332     68    15:00      Job was suspended by the user while pending
+369965     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+369969     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+369970     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+369971     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+369972     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+369973     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+369974     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+369975     yoonh      batch    MED106     334   4:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+373361     kaien      batch    MAT224     10    2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+380280     rsankar    batch    ENG106     1     1:00:00    Job has a specified start time        
+380281     rsankar    batch    CMB138     1     1:00:00    Job has a specified start time        
+381257     davpoole   batch    CHM135     512   2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+381260     davpoole   batch    CHM135     256   2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+381261     davpoole   batch    CHM135     128   2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+381263     davpoole   batch    CHM135     64    2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+381264     davpoole   batch    CHM135     32    2:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+381313     kaien      batch    MAT224     10    1:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+382526     pwsimox    batch    BIP196     50    6:00:00    Job dependency condition not satisfied
+382530     pwsimox    batch    BIP196     50    6:00:00    Job dependency condition not satisfied
+382535     pwsimox    batch    BIP196     50    6:00:00    Job dependency condition not satisfied
+382543     pwsimox    batch    BIP196     50    6:00:00    Job dependency condition not satisfied
+382544     pwsimox    batch    BIP196     50    6:00:00    Job dependency condition not satisfied
+382548     pwsimox    batch    BIP196     50    6:00:00    Job dependency condition not satisfied
+366704     mthevenet  batch    APH114     1     10:00      Job has a specified start time        
+313248     ganyushin  batch    CSC303     1024  2:00:00    Job was suspended by the user while pending
+313247     ganyushin  batch    CSC303     1024  2:00:00    Job was suspended by the user while pending
+313244     ganyushin  batch    CSC303     1024  2:00:00    Job was suspended by the user while pending
+313246     ganyushin  batch    CSC303     1024  2:00:00    Job was suspended by the user while pending
+282052     chulwoo    batch    PHY138FLAVOR 1024  6:00:00    Job was suspended by the user while pending
+340603     chulwoo    batch    PHY138FLAVOR 128   6:00:00    Job was suspended by the user while pending
+343972     chulwoo    batch    PHY138FLAVOR 288   4:00:00    Job was suspended by the user while pending
+363738     chulwoo    batch    PHY138FLAVOR 128   2:00:00    Job was suspended by the user while pending
+374358     javierhn   batch    PHY130     150   30:00      JOBS limit defined for the user or user group has been reached
+382860     pfliu      debug    PHY130     64    1:06:00    The preemptive job is allowing a grace period before preemption
+382868     gyungjic   debug    PHY130     32    1:22:00    The preemptive job is allowing a grace period before preemption
+382877     gbrochard  debug    PHY130     4     5:00       The preemptive job is allowing a grace period before preemption
+356045     chwong     batch    PHY138BSM  96    12:00:00   Job was suspended by the user while pending
+378470     javierhn   batch    PHY130     90    45:00      JOBS limit defined for the user or user group has been reached
+345373     pfliu      batch    PHY130     64    6:00:00    JOBS limit defined for the user or user group has been reached
+343176     chulwoo    batch    PHY138FLAVOR 512   8:00:00    Job was suspended by the user while pending
+345621     pfliu      batch    PHY130     64    5:00:00    JOBS limit defined for the user or user group has been reached
+311154     chulwoo    batch    PHY138FLAVOR 288   1:00:00    Job was suspended by the user while pending
+348350     pfliu      batch    PHY130     64    6:00:00    JOBS limit defined for the user or user group has been reached
+281900     chulwoo    batch    PHY138FLAVOR 288   12:00:00   Job was suspended by the user while pending
+341710     chulwoo    batch    PHY138FLAVOR 128   6:00:00    Job dependency condition not satisfied
+343457     chulwoo    batch    PHY138FLAVOR 128   6:00:00    Job dependency condition not satisfied
+344013     chulwoo    batch    PHY138FLAVOR 288   4:00:00    Job dependency condition not satisfied
+348422     pfliu      batch    PHY130     64    6:00:00    JOBS limit defined for the user or user group has been reached
+351135     chulwoo    batch    PHY138FLAVOR 288   4:00:00    Job dependency condition not satisfied
+356046     chwong     batch    PHY138BSM  96    12:00:00   Job was suspended by the user while pending
+356047     chwong     batch    PHY138BSM  96    12:00:00   Job was suspended by the user while pending
+356048     chwong     batch    PHY138BSM  96    12:00:00   Job was suspended by the user while pending
+356049     chwong     batch    PHY138BSM  96    12:00:00   Job was suspended by the user while pending
+371893     pfliu      batch    PHY130     64    5:20:00    JOBS limit defined for the user or user group has been reached
+372502     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372514     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372515     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372516     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372518     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372519     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372520     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372521     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372522     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+372523     chulwoo    batch    PHY138FLAVOR 256   1:00:00    Job dependency condition not satisfied
+374074     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380399     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380400     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380406     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380407     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380410     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380411     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380412     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380413     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380415     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380416     chulwoo    batch    PHY138FLAVOR 72    2:00:00    Job dependency condition not satisfied
+380589     swagato    batch    PHY138HOT  128   7:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+380590     swagato    batch    PHY138HOT  128   7:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+380591     swagato    batch    PHY138HOT  128   7:00:00    ELIGIBLE_PEND_JOBS defined for the user or user group has been reached
+380899     flemingg   batch    PHY138BSM  96    6:00:00    Job dependency condition not satisfied
+380900     flemingg   batch    PHY138BSM  96    6:00:00    Job dependency condition not satisfied
+380902     flemingg   batch    PHY138BSM  96    6:00:00    Job dependency condition not satisfied
+382744     rajan1     batch    PHY138NUCL 72    6:00:00    Job dependency condition not satisfied
+382873     boram1     batch    PHY138NUCL 72    6:00:00    Job dependency condition not satisfied
+382879     pfliu      batch    PHY130     64    5:00:00    JOBS limit defined for the user or user group has been reached
+382885     flemingg   batch    PHY138BSM  96    6:00:00    Job dependency condition not satisfied
+382886     flemingg   batch    PHY138BSM  96    6:00:00    Job dependency condition not satisfied
+382894     javierhn   batch    PHY130     5     3:00       The preemptive job is allowing a grace period before preemption
+382914     pfliu      batch    PHY130     64    6:00:00    JOBS limit defined for the user or user group has been reached
+382923     pfliu      batch    PHY130     64    3:00:00    The preemptive job is allowing a grace period before preemption
+382928     pfliu      batch    PHY130     64    2:00:00    The preemptive job is allowing a grace period before preemption
+676136     pumma      batch    CSC371     4120  2:00:00    Job was suspended by the user while pending
+676137     pumma      batch    CSC371     4120  2:00:00    Job was suspended by the user while pending
+764344     pumma      batch    CSC371     4120  1:00:00    Job was suspended by the user while pending
+764348     pumma      batch    CSC371     4096  45:00      Job was suspended by the user while pending
+663439     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+676138     pumma      batch    CSC371     4120  2:00:00    Job was suspended by the user while pending
+676139     pumma      batch    CSC371     4120  2:00:00    Job was suspended by the user while pending
+673763     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+667693     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+667694     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673754     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673757     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673758     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673759     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673760     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673761     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673762     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+667689     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+667695     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+667696     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673755     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+673756     pumma      batch    CSC371     4602  13:00:00   Job was suspended by the user while pending
+764349     pumma      batch    CSC371     4096  45:00      Job was suspended by the user while pending
+764350     pumma      batch    CSC371     4096  45:00      Job was suspended by the user while pending
+764351     pumma      batch    CSC371     4096  45:00      Job was suspended by the user while pending
+299270     tobivcu    batch    CSC143     2048  1:00:00:00 Job was suspended by the user while pending
+299230     tobivcu    batch    CSC143     2048  3:00:00    Job was suspended by the user while pending
+299241     tobivcu    batch    CSC143     2048  3:00:00    Job was suspended by the user while pending
+833769     pumma      batch    CSC371     2048  1:00:00    Job was suspended by the user while pending
+378121     xianglil   batch    MAT020     1     2:00:00    Job has reached its pre-execution retry limit
+360109     xianglil   batch    MAT020     1     2:00:00    Job has reached its pre-execution retry limit
